@@ -13,11 +13,3 @@ $ pip install web3
 Similar to the bit library, that command will install web3 to be used with python. 
 
 $ pip list | grep web3
-
-
-To clone and install the hd-wallet derive, enter the following:
-
-$ git clone https://github.com/dan-da/hd-wallet-derive
-$ cd hd-wallet-derive
-$ php -r "readfile('https://getcomposer.org/installer');" | php
-$ php composer.phar install
